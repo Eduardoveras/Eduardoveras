@@ -46,3 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoveras&layout=compact&theme=midnight-purple" alt="eduardoveras" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoveras&show_icons=true&theme=midnight-purple" alt="eduardoveras" /></p>
+<p>* This charts are not fully accurate, since 99% of my contributions over the last 4-5 years have been on private repositories</p>
