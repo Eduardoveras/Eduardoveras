@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋🏻, I'm Eduardo Veras</h1>
-<h3 align="center">I'm a Developer, learner, and coach!</h3>
+<h1 align="center">Hi 👋🏻, I'm Eduardo</h1>
+<h3 align="center">I'm an Engineer, leader, and learner!</h3>
 
 <!-- - 💼 I’m currently working on [Condé Nast](https://condenast.com/) -->
 
-- 💻 I’m currently growing my skills on the MERN Stack
+- 💻 I’m currently growing my skills as an Engineering Manager
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 💬 Ask me about **React, Ruby , Sass, JavaScript, Node, Express.js, MongoDB, GraphQL**
+- 💬 Ask me about **React, Typescript, JavaScript, Node, Express.js, MongoDB, GraphQL**
 
 - 📧 How to reach me? **Connect to me via LinkedIn [Eduardo Veras](https://www.linkedin.com/eduardoveras)**
 
